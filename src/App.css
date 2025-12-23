@@ -248,6 +248,20 @@ body {
     flex: 0 0 auto;
 }
 
+.buy-link {
+    display: inline-block;
+    background: var(--purple);
+    color: white;
+    padding: 0.4rem 0.6rem;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.buy-link:hover {
+    opacity: 0.9;
+}
+
 
 /* Responsive adjustments for small screens */
 
