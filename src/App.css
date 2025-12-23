@@ -101,6 +101,10 @@ body {
 .nav {
     display: flex;
     gap: 0.75rem;
+    flex-wrap: wrap;
+    /* allow items to wrap to multiple lines */
+    align-items: center;
+    overflow: visible;
 }
 
 .nav-link {
@@ -281,9 +285,20 @@ body {
     .nav {
         width: 100%;
         margin-top: 0.5rem;
+        flex-wrap: wrap;
+        /* wrap nav items on small screens */
+        gap: 0.5rem;
+        overflow-x: auto;
+        /* allow horizontal scrolling if needed */
+        -webkit-overflow-scrolling: touch;
     }
     .nav-link {
         padding: 0.4rem 0.6rem;
+        flex: 0 1 auto;
+        /* let links size to their content and wrap */
+        text-align: center;
+        white-space: nowrap;
+        /* prevent label wrap */
     }
     .content {
         padding: 1rem;
