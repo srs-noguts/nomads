@@ -299,3 +299,45 @@ body {
         font-size: 1.25rem;
     }
 }
+
+
+/* Locations tooltip styles */
+
+.loc-with-tooltip {
+    display: inline-block;
+    position: relative;
+}
+
+.loc-name {
+    color: inherit;
+    text-decoration: none;
+}
+
+.loc-name:hover,
+.loc-name:focus {
+    text-decoration: none;
+    color: inherit;
+}
+
+.tooltip-text {
+    position: absolute;
+    bottom: calc(100% + 8px);
+    left: 50%;
+    transform: translateX(-50%) translateY(6px);
+    background: rgba(0, 0, 0, 0.85);
+    color: white;
+    padding: 0.4rem 0.6rem;
+    border-radius: 6px;
+    font-size: 0.85rem;
+    white-space: nowrap;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 140ms ease, transform 140ms ease;
+    z-index: 20;
+}
+
+.loc-with-tooltip:hover .tooltip-text,
+.loc-with-tooltip:focus-within .tooltip-text {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0);
+}

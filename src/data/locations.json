@@ -1,0 +1,43 @@
+{
+    "locations": [{
+            "name": "Aptos LL",
+            "address": "12345 Aptos LL, CA 95003",
+            "url": "https://www.aptosll.org/"
+        },
+        {
+            "name": "Thousand Oaks LL",
+            "address": "1500 E Hillcrest Dr, Thousand Oaks, CA 91362",
+            "url": "https://www.tolittleleague.com/"
+        },
+        {
+            "name": "Woodland Hills (Sunrise) LL",
+            "address": "6400 Winnetka Ave, Woodland Hills, CA 91367",
+            "url": "https://www.sunrisebaseball.com/"
+        },
+        {
+            "name": "Santa Cruz LL",
+            "address": "326 Evergreen St, Santa Cruz, CA 95060",
+            "url": "https://www.santacruzlittleleague.org/"
+        },
+        {
+            "name": "Canyon Country LL",
+            "address": "",
+            "url": ""
+        },
+        {
+            "name": "Deer Creek LL",
+            "address": "",
+            "url": ""
+        },
+        {
+            "name": "UC Santa Barbara",
+            "address": "",
+            "url": ""
+        },
+        {
+            "name": "Conejo Valley LL",
+            "address": "1550 E Avenida De Los Arboles, Thousand Oaks, CA 91360",
+            "url": "https://www.cvll.net/"
+        }
+    ]
+}
