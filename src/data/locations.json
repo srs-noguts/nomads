@@ -2,57 +2,110 @@
     "locations": [{
             "name": "Aptos LL",
             "address": "12345 Aptos LL, CA 95003",
-            "url": "https://www.aptosll.org/"
+            "url": "https://www.aptosll.org/",
+            "state": "California"
         },
         {
             "name": "Thousand Oaks LL",
             "address": "1500 E Hillcrest Dr, Thousand Oaks, CA 91362",
-            "url": "https://www.tolittleleague.com/"
+            "url": "https://www.tolittleleague.com/",
+            "state": "California"
         },
         {
             "name": "Woodland Hills (Sunrise) LL",
             "address": "6400 Winnetka Ave, Woodland Hills, CA 91367",
-            "url": "https://www.sunrisebaseball.com/"
+            "url": "https://www.sunrisebaseball.com/",
+            "state": "California"
         },
         {
             "name": "Santa Cruz LL",
             "address": "326 Evergreen St, Santa Cruz, CA 95060",
-            "url": "https://www.santacruzlittleleague.org/"
+            "url": "https://www.santacruzlittleleague.org/",
+            "state": "California"
         },
         {
             "name": "Canyon Country LL",
             "address": "",
-            "url": ""
+            "url": "",
+            "state": "California"
         },
         {
             "name": "Deer Creek LL",
             "address": "",
-            "url": ""
+            "url": "",
+            "state": "California"
         },
         {
             "name": "UC Santa Barbara",
             "address": "",
-            "url": ""
+            "url": "",
+            "state": "California"
         },
         {
             "name": "Conejo Valley LL",
             "address": "1550 E Avenida De Los Arboles, Thousand Oaks, CA 91360",
-            "url": "https://www.cvll.net/"
+            "url": "https://www.cvll.net/",
+            "state": "California"
         },
         {
             "name": "Westchester LL",
             "address": "6000 Will Rogers St, Westchester, CA 90045",
-            "url": "https://www.westchesterll.org/"
+            "url": "https://www.westchesterll.org/",
+            "state": "California"
         },
         {
             "name": "El Rio LL",
             "address": "",
-            "url": ""
+            "url": "",
+            "state": "California"
         },
         {
             "name": "Granda Hills LL",
             "address": "",
-            "url": ""
+            "url": "",
+            "state": "California"
+        },
+        {
+            "name": "Rancho LL",
+            "address": "",
+            "url": "",
+            "state": "California"
+        },
+        {
+            "name": "Vineyard LL",
+            "address": "",
+            "url": "",
+            "state": "California"
+        },
+        {
+            "name": "Mountain Ridge LL",
+            "address": "6955 N. Durango Drive, Las Vegas, Nevada 89149",
+            "url": "https://www.mrll.org/",
+            "state": "Nevada"
+        },
+        {
+            "name": "Banneker City LL",
+            "address": "2500 Georgia Ave NW, Washington, DC 20001",
+            "url": "https://www.bannekercityll.org/",
+            "state": "District of Columbia"
+        },
+        {
+            "name": "Frazier Mountain LL",
+            "address": "",
+            "url": "",
+            "state": "California"
+        },
+        {
+            "name": "Alexandria LL",
+            "address": "",
+            "url": "",
+            "state": "Virginia"
+        },
+        {
+            "name": "Ahwatukee LL",
+            "address": "",
+            "url": "",
+            "state": "Arizona"
         }
     ]
 }
