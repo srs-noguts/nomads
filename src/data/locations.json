@@ -106,6 +106,90 @@
             "address": "",
             "url": "",
             "state": "Arizona"
+        },
+        {
+            "name": "Citrus LL",
+            "address": "",
+            "url": "",
+            "state": "California"
+        },
+        {
+            "name": "Sunset LL (Port Hueneme)",
+            "address": "",
+            "url": "",
+            "state": "California"
+        },
+        {
+            "name": "Huntington Valley LL",
+            "address": "",
+            "url": "",
+            "state": "California"
+        },
+        {
+            "name": "Malibu LL",
+            "address": "Malibu, California 90265",
+            "url": "https://www.malibulittleleague.org/",
+            "state": "California"
+        },
+        {
+            "name": "West Los Angeles LL",
+            "address": "",
+            "url": "",
+            "state": "California"
+        },
+        {
+            "name": "Sherman Oaks LL",
+            "address": "",
+            "url": "",
+            "state": "California"
+        },
+        {
+            "name": "West Lancaster LL",
+            "address": "",
+            "url": "",
+            "state": "California"
+        },
+        {
+            "name": "Quartz Hill LL",
+            "address": "",
+            "url": "",
+            "state": "California"
+        },
+        {
+            "name": "Ladera LL",
+            "address": "",
+            "url": "",
+            "state": "California"
+        },
+        {
+            "name": "Babe Herman LL",
+            "address": "1726 Cañada Blvd. Glendale, CA 91208",
+            "url": "",
+            "state": "California"
+        },
+        {
+            "name": "Encino LL",
+            "address": "",
+            "url": "",
+            "state": "California"
+        },
+        {
+            "name": "Alta Loma LL",
+            "address": "",
+            "url": "",
+            "state": "California"
+        },
+        {
+            "name": "Ontario Western LL",
+            "address": "",
+            "url": "",
+            "state": "California"
+        },
+        {
+            "name": "Lake Murray LL",
+            "address": "8305 El Paso St, La Mesa, CA 91942",
+            "url": "https://www.lakemurrayll.org/",
+            "state": "California"
         }
     ]
 }

@@ -1,7 +1,51 @@
 {
-    "jerseys": [
-        { "id": 1, "name": "NoMad Blue", "url": "" },
-        { "id": 2, "name": "NoMad Black", "url": "https://gerrydavis.com/products/davis-bfx-mlb-replica-black-umpire-shirt" },
-        { "id": 3, "name": "Outlaw Red", "url": "" }
+    "jerseys": [{
+            "id": 2,
+            "name": "NoMad Blue",
+            "url": "",
+            "img": "nomad-blue.png"
+        },
+        {
+            "id": 1,
+            "name": "NoMad Black",
+            "url": "https://gerrydavis.com/products/davis-bfx-mlb-replica-black-umpire-shirt",
+            "img": "nomad-black.png"
+        },
+        {
+            "id": 99,
+            "name": "Outlaw Red",
+            "url": "",
+            "img": "outlaw-red.jpg"
+        },
+        {
+            "id": 4,
+            "name": "New Black",
+            "url": "",
+            "img": "new-black.jpg"
+        },
+        {
+            "id": 5,
+            "name": "New Blue",
+            "url": "",
+            "img": "new-blue.png"
+        },
+        {
+            "id": 6,
+            "name": "D39 Grey",
+            "url": "",
+            "img": "d39-grey.png"
+        },
+        {
+            "id": 7,
+            "name": "Old Black",
+            "url": "",
+            "img": "old-black.png"
+        },
+        {
+            "id": 8,
+            "name": "Old Blue",
+            "url": "",
+            "img": "old-blue.png"
+        }
     ]
 }
