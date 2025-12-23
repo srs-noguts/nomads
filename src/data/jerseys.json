@@ -1,0 +1,7 @@
+{
+    "jerseys": [
+        { "id": 1, "number": 7, "owner": "Alice Smith", "color": "Blue", "size": "M", "image": "jersey-1.svg" },
+        { "id": 2, "number": 12, "owner": "Ben Torres", "color": "Black", "size": "L", "image": "jersey-2.svg" },
+        { "id": 3, "number": 99, "owner": "Cara Lee", "color": "Red", "size": "S", "image": "jersey-3.svg" }
+    ]
+}

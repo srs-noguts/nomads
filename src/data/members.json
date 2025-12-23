@@ -1,0 +1,10 @@
+{
+    "members": [
+        { "id": 1, "name": "Aaron", "role": "Founding Member", "image": "aaron.svg" },
+        { "id": 2, "name": "Ron", "role": "Founding Member", "image": "ron.svg" },
+        { "id": 3, "name": "Shawn", "role": "Founding Member", "image": "shawn.svg" },
+        { "id": 4, "name": "Ben", "role": "Inaugural Member", "image": "ben.svg" },
+        { "id": 5, "name": "Ed", "role": "NorCal Rep", "image": "ed.svg" },
+        { "id": 6, "name": "Jason", "role": "Rookie", "image": "jason.svg" }
+    ]
+}
