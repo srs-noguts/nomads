@@ -1,10 +1,51 @@
 {
-    "members": [
-        { "id": 1, "name": "Aaron", "role": "Founding Member", "image": "aaron.svg" },
-        { "id": 2, "name": "Ron", "role": "Founding Member", "image": "ron.svg" },
-        { "id": 3, "name": "Shawn", "role": "Founding Member", "image": "shawn.svg" },
-        { "id": 4, "name": "Ben", "role": "Inaugural Member", "image": "ben.svg" },
-        { "id": 5, "name": "Ed", "role": "NorCal Rep", "image": "ed.svg" },
-        { "id": 6, "name": "Jason", "role": "Inland Empire Rep", "image": "jason.svg" }
+    "members": [{
+            "id": 1,
+            "name": "Aaron",
+            "role": "Founding Member",
+            "shortDescription": "From Two Wheels to Four Wheels to Home Plate",
+            "longDescription": "Whether he's pedaling a bike, exploring back roads in his truck, closing a real estate deal, or chatting on the ham radio, Aaron is always on the move — and always up for the next game.",
+            "image": "aaron.svg"
+        },
+        {
+            "id": 2,
+            "name": "Ron",
+            "role": "Founding Member",
+            "shortDescription": "Two Wheels, Many Miles, and Earned Wisdom",
+            "longDescription": "A long-distance motorcycle and bicycle rider, retired IT professional, and household fix-it guy — calling life and the game by the book, offering sage advice when asked, and never surprised when someone else picks up the Ron-end of the stick.",
+            "image": "ron.svg"
+        },
+        {
+            "id": 3,
+            "name": "Shawn",
+            "role": "Founding Member",
+            "shortDescription": "Built Over Innings",
+            "longDescription": "Shaped by years on the field, a lifetime of umpiring taught him how to lead with fairness and care. Off the field, it's family first, cards on the table, and something good cooking in the kitchen.",
+            "image": "shawn.svg"
+        },
+        {
+            "id": 4,
+            "name": "Ben",
+            "role": "",
+            "shortDescription": "Fairways, Ballfields, and the Perfect Pour",
+            "longDescription": "A veterinarian by trade and a wine expert by passion, Ben mixes golf rounds, world travel, French Canadian charm, and a seriously good palate into his love for the game.",
+            "image": "ben.svg"
+        },
+        {
+            "id": 5,
+            "name": "Ed",
+            "role": "",
+            "shortDescription": "Firewalls, Campfires, and Fair Calls",
+            "longDescription": "By day he secures systems, by night he camps out of his van or racks up bike miles — Ed keeps life simple, code clean, and calls consistent.",
+            "image": "ed.svg"
+        },
+        {
+            "id": 6,
+            "name": "Jason",
+            "role": "",
+            "shortDescription": "Plant-Powered, Long Miles, Steady Calls",
+            "longDescription": "A fast marathoner and proud vegan, Jason brings endurance, discipline, and calm confidence to every inning — no shortcuts, no drama, all the questions.",
+            "image": "jason.svg"
+        }
     ]
 }

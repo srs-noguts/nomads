@@ -28,7 +28,7 @@ function App() {
         </Routes>
       </main>
       <footer className="footer">
-        ⚾ NoMad Umpires |
+        🐪 NoMad Umpires |
         Copyright &copy; 2026 |
         All Rights Reserved | S&I Web Design
       </footer>

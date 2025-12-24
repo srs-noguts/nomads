@@ -30,7 +30,7 @@
             "state": "California"
         },
         {
-            "name": "Deer Creek LL",
+            "name": "Deer Canyon LL",
             "address": "",
             "url": "",
             "state": "California"
@@ -189,6 +189,24 @@
             "name": "Lake Murray LL",
             "address": "8305 El Paso St, La Mesa, CA 91942",
             "url": "https://www.lakemurrayll.org/",
+            "state": "California"
+        },
+        {
+            "name": "Eastvale LL",
+            "address": "12672 Limonite Ave #3E-324. Eastvale, CA 92880",
+            "url": "https://www.eastvalelittleleague.com/",
+            "state": "California"
+        },
+        {
+            "name": "North Venice LL",
+            "address": "",
+            "url": "",
+            "state": "California"
+        },
+        {
+            "name": "Pajaro Valley LL",
+            "address": "1961 Main St, Watsonville, CA 95076",
+            "url": "https://www.pajarovalleylittleleague.com/",
             "state": "California"
         }
     ]

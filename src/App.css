@@ -186,6 +186,39 @@ body {
     color: var(--muted);
 }
 
+
+/* Members page typography */
+
+.member-header {
+    display: flex;
+    align-items: baseline;
+    gap: 0.5rem
+}
+
+.member-name {
+    font-weight: 700
+}
+
+.member-role {
+    color: var(--muted);
+    font-size: 0.85rem;
+    font-weight: 400;
+}
+
+.member-short {
+    margin-top: 0.25rem;
+    font-size: 1rem;
+    font-weight: 400;
+    color: #111827;
+}
+
+.member-long {
+    margin-top: 0.25rem;
+    font-size: 0.9rem;
+    font-weight: 400;
+    color: #111827;
+}
+
 .footer {
     margin-top: 1.25rem;
     color: var(--purple);
