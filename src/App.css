@@ -47,11 +47,12 @@
 /* App styles for SPA */
 
 :root {
-    --bg: #1f2937;
+    --bg: #4e5257;
     /* dark gray background */
     --accent: #2563eb;
     --muted: #9ca3af;
-    --purple: #7c3aed;
+    --purple: #b386fc;
+    --dkpurple: #6d28d9;
 }
 
 body {
@@ -111,7 +112,7 @@ body {
     text-decoration: none;
     padding: 0.5rem 0.75rem;
     border-radius: 6px;
-    color: var(--purple);
+    color: var(--dkpurple);
     /* purple text on black nav */
     background: transparent;
 }
@@ -121,7 +122,7 @@ body {
 }
 
 .nav-link.active {
-    background: var(--purple);
+    background: var(--dkpurple);
     color: white;
 }
 
@@ -483,12 +484,27 @@ body {
 .state-list {
     list-style: none;
     padding: 0;
-    margin: 0 0 0.5rem 0
+    margin: 0 0 0.5rem 0;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 0.5rem;
 }
 
 .state-list-item {
     padding: 0.25rem 0;
-    color: #111827
+    color: #111827;
+}
+
+@media (min-width: 600px) {
+    .state-list {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media (min-width: 900px) {
+    .state-list {
+        grid-template-columns: 1fr 1fr 1fr;
+    }
 }
 
 .total-count {

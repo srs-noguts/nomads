@@ -208,6 +208,24 @@
             "address": "1961 Main St, Watsonville, CA 95076",
             "url": "https://www.pajarovalleylittleleague.com/",
             "state": "California"
+        },
+        {
+            "name": "Torrance LL",
+            "address": "",
+            "url": "",
+            "state": "California"
+        },
+        {
+            "name": "Oceanside Valley LL",
+            "address": "Melba Bishop Park, 5306 N. River Rd, Oceanside, CA 92058",
+            "url": "",
+            "state": "California"
+        },
+        {
+            "name": "Moorpark LL",
+            "address": "",
+            "url": "",
+            "state": "California"
         }
     ]
 }

@@ -2,7 +2,7 @@
     "jerseys": [{
             "id": 2,
             "name": "NoMad Blue",
-            "url": "",
+            "url": "https://gerrydavis.com/products/davis-bfx-mlb-replica-sky-blue-umpire-shirt",
             "img": "nomad-blue.png"
         },
         {
@@ -14,37 +14,37 @@
         {
             "id": 99,
             "name": "Outlaw Red",
-            "url": "",
+            "url": "https://www.ump-attire.com/Scarlet-Red-Baseball-Softball-Umpire-Shirts",
             "img": "outlaw-red.jpg"
         },
         {
             "id": 4,
             "name": "New Black",
-            "url": "",
+            "url": "https://www.ump-attire.com/Products/S314-BK/Smitty-V2-Major-League-Replica-Umpire-Shirt-Black-with-Charcoal-Grey",
             "img": "new-black.jpg"
         },
         {
             "id": 5,
             "name": "New Blue",
-            "url": "",
+            "url": "https://www.ump-attire.com/Products/S314-SB/Smitty-V2-Major-League-Replica-Umpire-Shirt-Sky-Blue-with-Black",
             "img": "new-blue.png"
         },
         {
             "id": 6,
             "name": "D39 Grey",
-            "url": "",
+            "url": "https://www.ump-attire.com/Products/S307-GY/Smitty-Short-Sleeve-Body-Flex-Umpire-Shirt-Grey",
             "img": "d39-grey.png"
         },
         {
             "id": 7,
             "name": "Old Black",
-            "url": "",
+            "url": "https://gerrydavis.com/products/davis-core-traditional-black-umpire-shirt",
             "img": "old-black.png"
         },
         {
             "id": 8,
             "name": "Old Blue",
-            "url": "",
+            "url": "https://gerrydavis.com/products/davis-core-traditional-mlb-blue-umpire-shirt",
             "img": "old-blue.png"
         }
     ]
