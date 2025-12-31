@@ -387,6 +387,24 @@ body {
 }
 
 
+/* Tight mobile side padding override */
+
+@media (max-width: 600px) {
+    /* ensure the white content area has more width on small screens */
+    #root,
+    .app {
+        padding: 0.25rem !important;
+    }
+    .content {
+        padding: 0.75rem !important;
+    }
+    .page {
+        padding-left: 0.15rem !important;
+        padding-right: 0.15rem !important;
+    }
+}
+
+
 /* Locations tooltip styles */
 
 .loc-with-tooltip {
@@ -426,6 +444,62 @@ body {
 .loc-with-tooltip:focus-within .tooltip-text {
     opacity: 1;
     transform: translateX(-50%) translateY(0);
+}
+
+
+/* Avatar image preview popover */
+
+.img-preview-wrap {
+    position: relative;
+    display: inline-block;
+}
+
+.image-popover {
+    position: absolute;
+    top: 50%;
+    left: calc(100% + 12px);
+    transform: translateY(-50%);
+    width: min(320px, 60vw);
+    background: #ffffff;
+    border-radius: 8px;
+    /* subtle shadow, no heavy border */
+    border: none;
+    box-shadow: 0 6px 18px rgba(2, 6, 23, 0.06);
+    padding: 0.35rem;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 160ms ease, transform 160ms ease;
+    z-index: 60;
+}
+
+.image-popover.show {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(-50%) scale(1);
+}
+
+.image-popover img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 6px;
+}
+
+@media (max-width: 760px) {
+    /* fallback to above the avatar on narrow viewports */
+    .image-popover {
+        top: auto;
+        bottom: calc(100% + 8px);
+        left: 50%;
+        transform: translateX(-50%);
+        width: min(320px, 92vw);
+    }
+}
+
+@media (max-width: 420px) {
+    .image-popover {
+        width: min(260px, 92vw);
+    }
 }
 
 

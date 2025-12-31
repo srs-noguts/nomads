@@ -1,11 +1,12 @@
 import React from 'react'
 import './App.css'
 import Nav from './components/Nav'
+import ContactUs from './pages/ContactUs'
 import Home from './pages/Home'
 import Members from './pages/Members'
 import Jerseys from './pages/Jerseys'
 import Locations from './pages/Locations'
-import { Routes, Route } from 'react-router-dom'
+import { Routes, Route, Navigate } from 'react-router-dom'
 
 function App() {
   const logo = new URL('./assets/images/nomad_logo.png', import.meta.url).href
@@ -25,6 +26,8 @@ function App() {
           <Route path="/members" element={<Members />} />
           <Route path="/jerseys" element={<Jerseys />} />
           <Route path="/locations" element={<Locations />} />
+          <Route path="/contact" element={<ContactUs />} />
+          <Route path="*" element={<Navigate to="/" replace />} />
         </Routes>
       </main>
       <footer className="footer">
