@@ -226,6 +226,24 @@
             "address": "",
             "url": "",
             "state": "California"
+        },
+        {
+            "name": "East Fullerton LL",
+            "address": "",
+            "url": "",
+            "state": "California"
+        },
+        {
+            "name": "East Hills Yorba Linda LL",
+            "address": "4427-4449 Fairmont Blvd, Yorba Linda, CA 92886",
+            "url": "https://www.ehylll.com/",
+            "state": "California"
+        },
+        {
+            "name": "West Yorba Linda LL",
+            "address": "4800 Valley View Ave Yorba Linda, California 92886",
+            "url": "https://www.wylll.com/",
+            "state": "California"
         }
     ]
 }
